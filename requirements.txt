@@ -1,1 +1,20 @@
-# edited
+astroid @ file:///N:/rtp/JK/pythonModuleFiles/astroid-2.12.13-py3-none-any.whl
+attrs @ file:///N:/rtp/JK/pythonModuleFiles/attrs-22.1.0-py2.py3-none-any.whl
+colorama @ file:///N:/rtp/JK/pythonModuleFiles/colorama-0.4.6-py2.py3-none-any.whl
+dill @ file:///N:/rtp/JK/pythonModuleFiles/dill-0.3.6-py3-none-any.whl
+exceptiongroup @ file:///N:/rtp/JK/pythonModuleFiles/exceptiongroup-1.0.4-py3-none-any.whl
+iniconfig @ file:///N:/rtp/JK/pythonModuleFiles/iniconfig-1.1.1-py2.py3-none-any.whl
+isort @ file:///N:/rtp/JK/pythonModuleFiles/isort-5.10.1-py3-none-any.whl
+lazy-object-proxy @ file:///N:/rtp/JK/pythonModuleFiles/lazy_object_proxy-1.6.0-cp39-cp39-win_amd64.whl
+mccabe @ file:///N:/rtp/JK/pythonModuleFiles/mccabe-0.7.0-py2.py3-none-any.whl
+numpy @ file:///C:/Users/davidsonz/Desktop/python-intermediate-inflammation/numpy-1.21.0-cp39-cp39-win_amd64.whl
+packaging @ file:///N:/rtp/JK/pythonModuleFiles/packaging-21.3-py3-none-any.whl
+platformdirs @ file:///N:/rtp/JK/pythonModuleFiles/platformdirs-2.5.4-py3-none-any.whl
+pluggy @ file:///N:/rtp/JK/pythonModuleFiles/pluggy-1.0.0-py2.py3-none-any.whl
+pylint @ file:///N:/rtp/JK/pythonModuleFiles/pylint-2.15.6-py3-none-any.whl
+pyparsing @ file:///N:/rtp/JK/pythonModuleFiles/pyparsing-2.4.7-py2.py3-none-any.whl
+pytest @ file:///N:/rtp/JK/pythonModuleFiles/pytest-7.2.0-py3-none-any.whl
+tomli @ file:///N:/rtp/JK/pythonModuleFiles/tomli-2.0.1-py3-none-any.whl
+tomlkit @ file:///N:/rtp/JK/pythonModuleFiles/tomlkit-0.11.6-py3-none-any.whl
+typing-extensions @ file:///N:/rtp/JK/pythonModuleFiles/typing_extensions-4.4.0-py3-none-any.whl
+wrapt @ file:///N:/rtp/JK/pythonModuleFiles/wrapt-1.14.1-cp39-cp39-win_amd64.whl
